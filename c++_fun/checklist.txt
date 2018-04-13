@@ -1,0 +1,16 @@
+1. inheritence
+    a. Single
+    b. Multilevel
+    c. Multiple
+    d. Hierarchical 
+    e. Hybrid
+2. abstraction / virtual
+3. inline
+4. storage
+5. friend 
+6. inference list
+
+n-4. use math to make a random normal
+n-3. reading / writing to file
+n-2. accessing csv file
+n-1. overwrite copy / move constructors
